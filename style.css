@@ -1,0 +1,31 @@
+@import url('https://fonts.google.com/specimen/Noto+Sans');
+
+
+.icon{
+	background: black;
+}
+.icon .fa-envelope-open{
+   float: right;
+   margin-top: 5px;
+   color: #E2E9F3;
+   font-size: 15px;
+}
+.icon .fa-phone{
+	color: #E2E9F3; 
+	font-size: 15px;
+}
+.icon i span{
+   color: white;
+   margin-left: 20px;
+   font-family: Sansita Swashed;
+   font-size: 15px;
+}
+.icon a{
+	margin-left: 5px;
+	color: #fff;
+	font-size: 15px;
+}
+.dinh{
+	width: 1066px;
+	height: 722px;
+}

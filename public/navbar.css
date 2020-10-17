@@ -1,0 +1,53 @@
+@import url('https://fonts.google.com/specimen/Noto+Sans');
+@import url('https://fonts.google.com/');
+
+li a{
+	margin-left: 20px;
+}
+nav a img{
+  max-height .5s;
+      opacity: 1;
+}
+.tieude{
+  color: orange;
+}
+.tieude:hover{
+  color: orange;
+}
+.navbar {
+	background-color: #354152 !important;
+}
+.navbar li a {
+    color: #FFFFFF  !important;
+    font-size: 18px;
+      font-family: 'Noto Sans';
+}
+.navbar li a:hover {
+    color: orange !important;
+}
+.search {
+  font-size: 30px;
+  margin-left: 20px;
+  color: #FFFFFF;
+}
+footer span{
+  color: #FFFFFF;
+}
+footer a{
+  color: #FFFFFF;
+}
+.dropdown{
+   position: relative;
+   display: inline-block;
+}
+.dropdown-content{
+   display: none;
+   position: absolute;
+   background-color: #354152;
+   z-index: 1;
+   list-style: none;
+}
+.dropdown:hover .dropdown-content{
+   display: block;
+   background-color: #354152;
+}
